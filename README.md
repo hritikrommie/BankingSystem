@@ -1,5 +1,9 @@
 **Banking System**
 
-**How to run : **
-Download the code and build it, and then run it. Also attaching the postman collection. So Once api running, you can call each api through postman, in postman already created variables so no need to change any request, just call each api in same order as there in collection. If wants to test something else then you have to change requests.
+**How to run** :
+1.Download the code and build it, and then run it.
+2.Please import the collection, it is there in the repository.
+3.In postman, all variables are set, so no need to change any request.
+4.For furhter test or to test any particular behaviour of api, please change request properties.
+
 
